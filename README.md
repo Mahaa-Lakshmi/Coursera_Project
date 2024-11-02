@@ -21,6 +21,21 @@ Welcome to my Coursera Project Assignments repository! This repository contains 
    **Folder:** `AI-Developer-Introduction-to-HTML-CSS-JS/`  
    **Projects Included:**  
    - The complete code and assets for the portfolio website.
+  
+2. **Developing AI Applications with Python and Flask**  
+   **Description:**  
+   I have developed a web applications with integrated AI functionality using IBM Watson libraries. The projects followed these steps:
+
+    1. Create a function for the application.
+    2. Package the application function.
+    3. Run unit testing on the function.
+    4. Deploy the application using Flask.
+    5. Incorporate error handling.
+    6. Perform static code analysis on the created code..
+
+   **Folder:** `AI-Developer-Introduction-to-HTML-CSS-JS/`  
+   **Projects Included:**  
+   - The complete code and assets for the portfolio website.
 
 ## Usage
 
