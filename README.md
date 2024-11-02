@@ -33,7 +33,7 @@ Welcome to my Coursera Project Assignments repository! This repository contains 
     5. Incorporate error handling.
     6. Perform static code analysis on the created code..
 
-   **Folder:** `AI-Developer-Introduction-to-HTML-CSS-JS/`  
+   **Folder:** `AI_Developer_Developing_AI_Applications_with_Python_and_Flask/`  
    **Projects Included:**  
    - The complete code and assets for the portfolio website.
 
